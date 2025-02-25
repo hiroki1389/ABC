@@ -1,0 +1,6 @@
+# Mac, VSCodeなどの不要ファイル
+.DS_Store
+.vscode
+
+# Logs
+*.Logs
